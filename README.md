@@ -1,4 +1,4 @@
-# Rails5 with Slim and Ckeditor
+# Rails5 with Slim and CKEditor
 
 ```
 ruby       2.4.0
